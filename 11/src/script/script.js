@@ -1,0 +1,6 @@
+ var DateUtil = require("com/com.js")
+ var $ = require("./com/jquery-1.11.0.min.js")
+ var oIndex = require("tpl/tpl")
+ $("body").before(oIndex)
+ console.log(DateUtil.getDate())
+console.log(1)
