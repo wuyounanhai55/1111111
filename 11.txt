@@ -1,4 +1,5 @@
 "hello world"
 "test sourceTree"
 "add sourceTree"
-"resolve"
+"conflict"
+"test"
